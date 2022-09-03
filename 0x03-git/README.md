@@ -1,2 +1,2 @@
 # My 2nd readme
-Our mutual readme has been created.
+Our mutual readme has been updated.
